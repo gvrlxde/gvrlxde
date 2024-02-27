@@ -6,6 +6,6 @@
 - 🌱 I’m currently learning Generative AI and Python
 - 💞️ I’m looking to collaborate on Micro, Macro Massive at Infinite Learning
 - 📫 How to reach me
-  - LinkedIn: [Ruth Johana Hutagalung] (https://www.linkedin.com/in/ruth-johana-hutagalung/)
+  - LinkedIn: [Ruth Johana Hutagalung](https://www.linkedin.com/in/ruth-johana-hutagalung/)
 - ⚡ Fun fact: I enjoy sleeping
 
